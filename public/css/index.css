@@ -1,0 +1,503 @@
+
+.ly-flag-icon-en { background-image: url('//cdn.shopify.com/s/files/1/0555/6197/8056/t/8/assets/ly-icon-en.svg?v=168749326791323067301653034094'); }
+.ly-flag-icon-fr { background-image: url('//cdn.shopify.com/s/files/1/0555/6197/8056/t/8/assets/ly-icon-fr.svg?v=49424167760593335881653034093'); }
+
+.ly-switcher-wrapper {
+
+}
+.ly-switcher-wrapper.fixed {
+position: fixed;
+z-index: 1000;
+}
+.ly-switcher-wrapper.absolute {
+position: absolute;
+z-index: 1000;
+}
+.ly-switcher-wrapper.fixed.top_left,
+.ly-switcher-wrapper.absolute.top_left {
+top: 0;
+left: 0;
+}
+.ly-switcher-wrapper.fixed.top_right,
+.ly-switcher-wrapper.absolute.top_right {
+top: 0;
+right: 0;
+}
+.ly-switcher-wrapper.fixed.bottom_left,
+.ly-switcher-wrapper.absolute.bottom_left {
+bottom: 0;
+left: 0;
+}
+.ly-switcher-wrapper.fixed.bottom_right,
+.ly-switcher-wrapper.absolute.bottom_right {
+bottom: 0;
+right: 0;
+}
+.ly-switcher-wrapper .shopify-currency-form {
+display: inline-block;
+}
+
+
+.ly-currency-switcher {
+font-size: 1em;
+}
+
+.ly-inner-text {
+margin: 0 0.2em;
+white-space: nowrap;
+}
+
+.ly-flag-icon {
+background-size: contain;
+background-position: 50%;
+background-repeat: no-repeat;
+position: relative;
+display: inline-block;
+width: 1.33333333em;
+line-height: 1em;
+}
+.ly-flag-icon:before {
+content: '';
+display: inline-block;
+}
+.ly-flag-icon.ly-flag-squared {
+width: 1em;
+}
+.ly-flag-icon.ly-flag-rounded {
+width: 1em;
+border-radius: 50%;
+}
+.ly-languages-switcher {
+white-space: nowrap;
+list-style-type: none;
+display: inline-block;
+font-size: 1em;
+}
+.ly-languages-switcher-link {
+margin: 0 0.2em;
+cursor: pointer;
+white-space: nowrap;
+text-decoration: none;
+display: inline-block;
+}
+.ly-languages-switcher.ly-list {
+margin: 0;
+padding: 0;
+display: block;
+}
+.ly-languages-switcher.ly-native-select {
+
+}
+.ly-icon {
+margin: 0 0.2em;
+}
+
+.ly-arrow {
+display: inline-block;
+position: relative;
+vertical-align: middle;
+direction: ltr !important;
+-webkit-transition: transform 0.25s;
+-moz-transition: transform 0.25s;
+transition: transform 0.25s;
+margin: 0 0.2em;
+}
+.ly-custom-dropdown-switcher.ly-is-open .ly-arrow {
+transform: rotate(180deg);
+}
+.ly-custom-dropdown-switcher.ly-arrow.ly-arrow-up {
+transform: rotate(180deg);
+}
+.ly-custom-dropdown-switcher.ly-is-open .ly-arrow.ly-arrow-up {
+transform: rotate(0deg);
+}
+
+.ly-custom-dropdown-switcher {
+text-align: left;
+display: inline-block;
+position: relative;
+user-select: none;
+cursor: pointer;
+}
+.ly-custom-dropdown-current {
+display: block;
+vertical-align: middle;
+}
+.ly-custom-dropdown-current-inner {
+display: inline-block;
+vertical-align: middle;
+}
+.ly-custom-dropdown-current-inner-image {
+margin-right: 0.25em;
+}
+.ly-custom-dropdown-current-inner-text {
+margin: 0 0.2em;
+}
+.ly-custom-dropdown-list {
+display: none !important;
+list-style: none;
+position: absolute;
+left: 0;
+padding: inherit !important;
+padding: 0 !important;
+margin: 0;
+z-index: 99999;
+text-align: left;
+width: 100%;
+font-size: 1em;
+}
+.ly-custom-dropdown-list-element {
+color: inherit !important;
+display: block;
+}
+.ly-custom-dropdown-list > li {
+margin: 0 !important;
+display: block;
+}
+.ly-custom-dropdown-list-element-left {
+margin-right: 0.5em;
+}
+.ly-custom-dropdown-list-element-right {
+text-align: left;
+}
+.ly-custom-dropdown-list-element-left,
+.ly-custom-dropdown-list-element-right {
+vertical-align: middle;
+}
+.ly-custom-dropdown-switcher .ly-languages-switcher-link {
+margin: 0;
+}
+.ly-languages-switcher-dropdown {
+display: inline-block;
+}
+.ly-languages-links-switcher {
+display: inline-block;
+}
+.ly-languages-links-switcher > .ly-languages-link {
+/*margin-right: 0.5em;*/
+padding: inherit !important;
+color: inherit !important;
+}
+.ly-custom-dropdown-list-element {
+/*padding: inherit !important;*/
+text-decoration: none;
+}
+.ly-is-uppercase {
+text-transform: uppercase;
+}
+.ly-is-transparent.ly-links,
+.ly-is-transparent.ly-list,
+.ly-is-transparent.ly-currency-switcher,
+.ly-is-transparent.ly-custom-dropdown-switcher,
+.ly-is-transparent.ly-custom-dropdown-switcher .ly-custom-dropdown-list {
+background: transparent !important;
+}
+.ly-arrow-up {
+transform: rotateZ(180deg);
+}
+
+.ly-custom-dropdown-switcher .ly-custom-dropdown-list li.current{
+display: none;
+}
+.ly-custom-dropdown-switcher.ly-is-open .ly-custom-dropdown-list {
+display: flex !important;
+min-width: 100%;
+width: auto;
+flex-direction: column-reverse;
+right: 0;
+left: auto;
+overflow: auto;
+max-height: 350px;
+max-height: 50vh;
+}
+
+.ly-is-dropup .ly-custom-dropdown-list {
+bottom: 100%;
+}
+.ly-hide {
+display: none !important;
+}
+body.ly-force-off #preview-bar-iframe,
+body.ly-force-off .ly-languages-switcher {
+display: none !important;
+}
+
+.ly-close {
+position: absolute;
+opacity: 0.3;
+width: 1em;
+height: 1em;
+right: 1em;
+top: 1em;
+transform: translateX(-50%);
+}
+.ly-close:hover {
+opacity: 1;
+}
+.ly-close:before, .ly-close:after {
+position: absolute;
+left: 1em;
+content: ' ';
+height: 1em;
+width: 2px;
+background-color: #333;
+}
+.ly-close:before {
+transform: rotate(45deg);
+}
+.ly-close:after {
+transform: rotate(-45deg);
+}
+
+
+
+.ly-popup-switcher {}
+.ly-popup-switcher .ly-popup-current {
+cursor: pointer;
+background: transparent;
+}
+.ly-popup-switcher .ly-popup-modal {
+position: fixed;
+z-index: 1000;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+display: none;
+justify-content: center; 
+align-items: center;
+}
+.ly-popup-switcher.ly-is-open .ly-popup-modal {
+display: flex;
+}
+.ly-popup-switcher .ly-popup-modal-backdrop {
+position: fixed;
+width: 100%;
+height: 100%;
+z-index: 0;
+top: 0;
+left: 0;
+background:rgba(0, 0, 0, 0.38);
+cursor: pointer;
+}
+.ly-popup-switcher .ly-popup-modal .ly-popup-modal-content {
+padding: 1em;
+position: absolute;
+z-index: 1000;
+}
+.ly-popup-switcher .ly-popup-modal .ly-popup-modal-content ul {
+padding: 0;
+margin: 12px 0 0 0;
+list-style: none;
+}
+.ly-popup-switcher .ly-popup-modal .ly-popup-modal-content ul .ly-languages-switcher-link {
+margin: 0;
+border: solid 1px;
+padding: 1em;
+display: block;
+min-width: 225px;
+margin-top: 1em;
+}
+.ly-popup-switcher .ly-popup-modal .ly-popup-modal-content ul .ly-languages-switcher-link.current_lang {
+display: none;
+}
+
+
+
+/* Recommendation */
+.ly-recommendation {
+display: none;
+}
+.ly-recommendation.ly-is-open {
+display: inline-block;
+}
+.ly-recommendation form {
+display: inline-block;
+}
+.ly-recommendation .ly-arrow,
+.ly-arrow.recommendation {
+display: none;
+}
+.ly-recommendation .ly-arrow.recommendation {
+display: inline-block;
+}
+.ly-recommendation .ly-switcher-wrapper {
+font-size: 1em !important;
+}
+.ly-recommendation .ly-popup-modal .ly-popup-switcher .ly-popup-modal .ly-popup-modal-backdrop {
+display: none;
+}
+
+/* Recommendation Banner */
+.ly-recommendation .ly-banner {
+position: fixed;
+z-index: 100000;
+width: 100%;
+}
+.ly-recommendation .ly-banner .ly-banner-content {
+width: 100%;
+padding: 1em 30px 1em 1em;
+box-shadow: 0 0 20px rgba(0,0,0,.25);
+}
+.ly-recommendation .ly-banner.top {
+top: 0;
+}
+.ly-recommendation .ly-banner.bottom {
+bottom: 0;
+}
+.ly-recommendation .ly-banner .ly-banner-content .ly-switcher-wrapper {
+position: relative !important;
+margin: 0 !important;
+display: inline-block !important;
+}
+.ly-recommendation .ly-banner .ly-recommendation-form button[type="submit"] {
+margin-left: 10px;
+}
+
+
+/* Recommendation Popup */
+.ly-recommendation .ly-popup-modal {
+position: fixed;
+z-index: 10000;
+}
+.ly-recommendation .ly-popup-modal .ly-switcher-wrapper {
+position: relative !important;
+margin: 0 !important;
+display: inline-block !important;
+}
+.ly-recommendation .ly-popup-modal-backdrop {
+position: fixed;
+width: 100%;
+height: 100%;
+z-index: 1000;
+top: 0;
+left: 0;
+background:rgba(0, 0, 0, 0.38);
+}
+.ly-recommendation .ly-popup-modal .ly-popup-modal-content {
+padding: 1em 30px 1em 1em;
+}
+.ly-recommendation .ly-popup-modal .ly-popup-modal-content .ly-languages-switcher {
+position: relative !important;
+margin: 0 !important;
+}
+.ly-recommendation .ly-popup-modal .ly-popup-modal-content h3 {
+margin: 0 2em 1em 0;
+font-size: inherit;
+position: relative;
+}
+.ly-recommendation .ly-popup-modal.top_left { top: 0; left: 0; margin-right: 0 !important; margin-bottom: 0 !important; padding-right: 0 !important; padding-bottom: 0 !important;}
+.ly-recommendation .ly-popup-modal.top_center { top: 0; left: 50%; transform: translateX(-50%); margin-right: 0 !important; margin-bottom: 0 !important; margin-left: 0 !important; padding-right: 0 !important; padding-bottom: 0 !important; padding-left: 0 !important;}
+.ly-recommendation .ly-popup-modal.top_right { top: 0; right: 0; margin-left: 0 !important; margin-bottom: 0 !important; padding-left: 0 !important; padding-bottom: 0 !important; }
+.ly-recommendation .ly-popup-modal.center_center { top: 50%; left: 50%; transform: translateX(-50%) translateY(-50%); margin: 0 !important; padding: 0 !important; }
+.ly-recommendation .ly-popup-modal.bottom_left { bottom: 0; left: 0; margin-right: 0 !important; margin-top: 0 !important; padding-right: 0 !important; padding-top: 0 !important; }
+.ly-recommendation .ly-popup-modal.bottom_center { bottom: 0; left: 50%; transform: translateX(-50%); margin-right: 0 !important; margin-left: 0 !important; margin-top: 0 !important; padding-right: 0 !important; padding-left: 0 !important; padding-top: 0 !important; }
+.ly-recommendation .ly-popup-modal.bottom_right { bottom: 0; right: 0; margin-left: 0 !important; margin-top: 0 !important; padding-left: 0 !important; padding-top: 0 !important; }
+
+
+@font-face {
+    font-family: Montserrat;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://fonts.shopifycdn.com/montserrat/montserrat_n3.e9c2ec7697570c33b13645dbd15f3f729c5e921b.woff2?h1=c2VjcmV0c2RlbG9seS5jb20&h2=c2VjcmV0c2RlbG9seS1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=b88db7d3746cf3425c4bf693ff672e765ffa20d965f9385d2da0823c21be95a1") format("woff2"),
+         url("https://fonts.shopifycdn.com/montserrat/montserrat_n3.f481a31eaff8b48749cc413f5c6990b1db3c9103.woff?h1=c2VjcmV0c2RlbG9seS5jb20&h2=c2VjcmV0c2RlbG9seS1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=6770c3ed42c49c78de5a661fe87e8da2dbf5528724fe142075e671301c41d740") format("woff");
+  }
+  
+  
+    @font-face {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://fonts.shopifycdn.com/montserrat/montserrat_n4.1d581f6d4bf1a97f4cbc0b88b933bc136d38d178.woff2?h1=c2VjcmV0c2RlbG9seS5jb20&h2=c2VjcmV0c2RlbG9seS1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=9e3c76fadd844f2bea927c4481f6f8b7f265f75e95d20071e022c0273f20ba92") format("woff2"),
+         url("https://fonts.shopifycdn.com/montserrat/montserrat_n4.cfce41a967758ce5a9b7d48daeb5b028fd977a9b.woff?h1=c2VjcmV0c2RlbG9seS5jb20&h2=c2VjcmV0c2RlbG9seS1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=5c7aedc8ce15dfce6d6153100223aa9d362d2ba1f8cecbee30a56bd843c35b4f") format("woff");
+  }
+  
+    @font-face {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://fonts.shopifycdn.com/montserrat/montserrat_n7.c496e9cf2031deec4c4bca338faa81971c8631d4.woff2?h1=c2VjcmV0c2RlbG9seS5jb20&h2=c2VjcmV0c2RlbG9seS1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=db3b99d4d3c5454ee1f938d645678e9dc2cce1b71a2c636a7f7341f07bc4bf40") format("woff2"),
+         url("https://fonts.shopifycdn.com/montserrat/montserrat_n7.78b0223375c94b39ce1af7e09a0225f2bb3d05f7.woff?h1=c2VjcmV0c2RlbG9seS5jb20&h2=c2VjcmV0c2RlbG9seS1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=0dc46dff9a2304778c6c235a6ef741a39d6f9ec6e7a6404db9ac0b0e707a1d3a") format("woff");
+  }
+  
+    @font-face {
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://fonts.shopifycdn.com/montserrat/montserrat_n8.d0ee6fdb3a3fec57b7ba86e76adad5b86d8b298f.woff2?h1=c2VjcmV0c2RlbG9seS5jb20&h2=c2VjcmV0c2RlbG9seS1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=713d846ed994146044825b52fda960cd5b50b9d4d328937ac7d894cd99d7f17b") format("woff2"),
+         url("https://fonts.shopifycdn.com/montserrat/montserrat_n8.57046b0201ba1025a279f9546bf469833729dc63.woff?h1=c2VjcmV0c2RlbG9seS5jb20&h2=c2VjcmV0c2RlbG9seS1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=85f551d8e1bd946e9efa22ef72b9bba20f39237e38d61f25935190e0a424153f") format("woff");
+  }
+  
+    @font-face {
+    font-family: Montserrat;
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+    src: url("https://fonts.shopifycdn.com/montserrat/montserrat_i3.0851c828f2d9e24bc7e62370e5b23fbce45a9776.woff2?h1=c2VjcmV0c2RlbG9seS5jb20&h2=c2VjcmV0c2RlbG9seS1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=425cfab804f32600deacafc99d33cd714f8c8131712ce236ee8d0e458b986a17") format("woff2"),
+         url("https://fonts.shopifycdn.com/montserrat/montserrat_i3.2ea997ee0b5ec44aa35a893518aa91f824531238.woff?h1=c2VjcmV0c2RlbG9seS5jb20&h2=c2VjcmV0c2RlbG9seS1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=9c2c3af8f520288fcdaf5ae7318b11ab02bff8b30a69ec47ac94830941e64cbc") format("woff");
+  }
+  
+    @font-face {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+    src: url("https://fonts.shopifycdn.com/montserrat/montserrat_i4.ae02483b3d5e8777d0d4a4ccf396482c364d8955.woff2?h1=c2VjcmV0c2RlbG9seS5jb20&h2=c2VjcmV0c2RlbG9seS1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=a993ecf62d98dbf3bfd9614a278e2441ceb3657a1c43220a4b1856d2333bfcb6") format("woff2"),
+         url("https://fonts.shopifycdn.com/montserrat/montserrat_i4.ba28d1a04ec09448de486d83c63235903dfc0af8.woff?h1=c2VjcmV0c2RlbG9seS5jb20&h2=c2VjcmV0c2RlbG9seS1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=d4825fb170491a71d6b1c4604576cb6e0e468b5ff832bc4b9a9cbb41b397dcf6") format("woff");
+  }
+  
+    @font-face {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+    src: url("https://fonts.shopifycdn.com/montserrat/montserrat_i7.83866c3eec90071fa974c17980ffb42977f9e667.woff2?h1=c2VjcmV0c2RlbG9seS5jb20&h2=c2VjcmV0c2RlbG9seS1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=8fe49ed88f59a5ec069ebaeecd3a55e22ac4df826eff6a1d35787ddd8a6673ae") format("woff2"),
+         url("https://fonts.shopifycdn.com/montserrat/montserrat_i7.25524241b12d864609c85325613d60efcf1a87e3.woff?h1=c2VjcmV0c2RlbG9seS5jb20&h2=c2VjcmV0c2RlbG9seS1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=4043e5befd7821d9a0b3491021d1c2c58960b0d49a1497ad19f7053a33ec6b3f") format("woff");
+  }
+  
+    @font-face {
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+    src: url("https://fonts.shopifycdn.com/montserrat/montserrat_i8.7037775bbf82d7865493b9c8c4f9f95f29614933.woff2?h1=c2VjcmV0c2RlbG9seS5jb20&h2=c2VjcmV0c2RlbG9seS1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=e2f2a7164b18628a5d8b8099c89351aaf3659006d42f7736eb8c35c71d56550f") format("woff2"),
+         url("https://fonts.shopifycdn.com/montserrat/montserrat_i8.897fa00a948805a58d0a352aacd6f14efa944f56.woff?h1=c2VjcmV0c2RlbG9seS5jb20&h2=c2VjcmV0c2RlbG9seS1mci5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=9dd460ba33b02aaca0f8ff892245886d728605e60b5f9b86602f24febdba7b5c") format("woff");
+  }
+:root {
+      --typeHeaderPrimary: Montserrat;
+      --typeHeaderFallback: sans-serif;
+      --typeHeaderSize: 44px;
+      --typeHeaderWeight: 700;
+      --typeHeaderStyle: italic;
+      --typeHeaderLineHeight: 1.3;
+      --typeHeaderSpacing: 0.0em;
+  
+      --typeBasePrimary:Montserrat;
+      --typeBaseFallback:sans-serif;
+      --typeBaseSize: 14px;
+      --typeBaseWeight: 300;
+      --typeBaseWeightMedium: 400;
+      --typeBaseWeightBold: 700;
+      --typeBaseWeightExtraBold: 800;
+      --typeBaseSpacing: 0.0em;
+      --typeBaseLineHeight: 1.5;
+  
+      --typeCollectionTitle: 18px;
+  
+      --iconWeight: 2px;
+      --iconLinecaps: miter;
+  
+      
+        --buttonRadius: 0px;
+      
+  
+      --colorGridOverlayOpacity: 0.1;
+    }
+  
+    .placeholder-content {
+      background-image: linear-gradient(100deg, #ffffff 40%, #f7f7f7 63%, #ffffff 79%);
+    }
