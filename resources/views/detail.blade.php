@@ -147,7 +147,7 @@
         <textarea class="form-control" name="comment"></textarea>
         <input type="submit" class="btn btn return-link"  /></form>
     </div>
-@endif
+
 </div>
 <div class="card my-4">
     <h5 class="card-header">Commentaires <span class='bade badge-danger'>{{count($posts->comments)}}</span></h5>
@@ -173,6 +173,7 @@
     </div>
 
 </div>
+@endif
 <hr class="hr--large">
 
 </article>

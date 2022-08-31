@@ -467,7 +467,6 @@
       });
     }
   })();</script><link href="https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js" rel="preload" as="script">
-  <style>#AnnouncementSlider .flickity-viewport{height:20px}</style><iframe src="about:blank" title="" role="presentation" loading="eager" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script type="text/javascript" src="https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js"></script><link type="text/css" rel="stylesheet" media="screen" href="https://productreviews.shopifycdn.com/assets/v4/spr-07102fd76ff4bc22a3e0c32f0cca9ee51c77c34bbc4bdac79abb48f698de10dd.css"><script type="text/javascript" src="https://productreviews.shopifycdn.com/assets/v4/spr-0e683603bfa450170bff33e7fbad64e7dfe9585e1caeb951bbe283e5a2306523.js"></script><link type="text/css" rel="stylesheet" media="screen" href="https://productreviews.shopifycdn.com/assets/v4/spr-07102fd76ff4bc22a3e0c32f0cca9ee51c77c34bbc4bdac79abb48f698de10dd.css"><script type="module" defer="" src="https://cdn.shopify.com/shopifycloud/consent-tracking-api/v0.1/consent-tracking-api.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script><script defer="" src="https://js.smile.io/v1/smile-lite-2378c65698.js" type="module"></script><link href="https://js.smile.io/v1/smile-shopify-607419aeb615a12fa6a5.modern.js" crossorigin="" rel="prefetch"><link href="https://js.smile.io/v1/vendor-4f32f243fba6f7fa4b42.modern.js" crossorigin="" rel="prefetch"></head>
   
   <body class="template-customers-register" data-center-text="true" data-button_style="square" data-type_header_capitalize="false" data-type_headers_align_text="true" data-type_product_capitalize="true" data-swatch_style="round" data-aos-easing="ease-out-quad" data-aos-duration="400" data-aos-delay="0">
   <noscript>
@@ -615,22 +614,22 @@
         <div class="toolbar__item">
            
             <ul class="no-bullets footer__social inline-list toolbar__menu"><li>
-             <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/" title="Les Secrets de Loly sur Instagram">
+             <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/" title="Instagram">
                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-instagram" viewBox="0 0 32 32"><path fill="#444" fill-rule="nonzero" d="M16 0c8.835 0 16 7.165 16 16s-7.165 16-16 16S0 24.835 0 16 7.165 0 16 0zm.78 6.813h-1.56c-1.796.002-2.141.015-3.008.055-.978.045-1.646.2-2.23.427a4.5 4.5 0 00-1.627 1.06 4.5 4.5 0 00-1.06 1.627c-.227.584-.383 1.252-.427 2.23-.04.867-.053 1.212-.055 3.007v1.562c.001 1.093.007 1.648.02 2.111l.006.194c.007.223.017.438.03.702.044.978.2 1.646.426 2.23.23.613.592 1.169 1.06 1.627.459.468 1.014.83 1.627 1.06.584.227 1.252.382 2.23.427.867.04 1.212.053 3.007.055h1.562c1.795-.002 2.14-.015 3.007-.055.978-.045 1.646-.2 2.23-.427a4.698 4.698 0 002.687-2.687c.227-.584.383-1.252.427-2.23.04-.867.053-1.212.055-3.007v-1.562a75.602 75.602 0 00-.022-2.209l-.007-.191c-.007-.19-.015-.38-.026-.607-.044-.978-.2-1.646-.427-2.23a4.502 4.502 0 00-1.06-1.627 4.504 4.504 0 00-1.627-1.06c-.584-.227-1.252-.382-2.23-.427-.867-.04-1.212-.053-3.007-.055zm.209 1.656a62.53 62.53 0 012.033.024l.187.007.504.022c.895.04 1.382.19 1.705.316.4.147.76.382 1.057.687.305.297.54.658.687 1.057.126.323.276.81.317 1.706.037.82.05 1.153.052 2.723v1.978c-.003 1.57-.015 1.904-.052 2.724-.041.896-.191 1.382-.317 1.706a3.042 3.042 0 01-1.744 1.743c-.323.126-.81.276-1.706.317-.782.035-1.122.048-2.516.052h-.429l-.238.001h-1.296l-.429-.001a45.654 45.654 0 01-2.517-.052c-.895-.041-1.382-.19-1.706-.317-.399-.147-.76-.382-1.056-.687a2.848 2.848 0 01-.687-1.056c-.126-.324-.276-.81-.317-1.706-.04-.895-.052-1.21-.053-3.184v-1.058c.001-1.973.013-2.29.053-3.183.041-.896.19-1.383.317-1.706.147-.4.382-.76.687-1.057.296-.305.657-.54 1.057-.687.323-.126.81-.275 1.705-.317.82-.037 1.154-.05 2.724-.052zM16 11.282a4.718 4.718 0 100 9.436 4.718 4.718 0 000-9.436zm0 1.655a3.062 3.062 0 110 6.125 3.062 3.062 0 010-6.125zm4.904-2.944a1.103 1.103 0 100 2.205 1.103 1.103 0 000-2.205z"></path></svg>
                <span class="icon__fallback-text">Instagram</span>
              </a>
            </li><li>
-             <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/" title="Les Secrets de Loly sur Facebook">
+             <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/" title="Facebook">
                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-facebook" viewBox="0 0 32 32"><path fill="#444" fill-rule="evenodd" d="M16 0C7.164 0 0 7.162 0 16c0 8.833 7.164 15.998 16 15.998 8.835 0 16-7.165 16-15.998 0-8.838-7.165-16-16-16m4.237 9.758c-.533-.009-1.063-.005-1.596-.004-.706.002-1.13.367-1.173 1.066-.036.562-.009 1.125-.024 1.688-.003.2.116.185.249.185.805 0 1.614.008 2.42-.005.238-.005.315.05.287.301-.1.938-.189 1.878-.268 2.82-.02.213-.114.253-.307.25-.636-.01-1.271-.007-1.908-.004-.46.004-.414-.067-.414.4l.005 8.792c.002.309-.076.386-.383.381a85.42 85.42 0 00-3.282 0c-.308.007-.358-.097-.355-.375.01-1.474.005-2.948.005-4.426 0-1.497-.005-2.994.005-4.49.002-.255-.069-.332-.322-.322-.466.019-.933-.003-1.403.009-.188.005-.257-.05-.255-.25.01-.932.008-1.867.002-2.802-.002-.18.052-.239.233-.234.478.01.957-.015 1.433.01.277.012.333-.084.328-.342-.016-.71-.016-1.421 0-2.132.018-.87.252-1.68.77-2.387.652-.895 1.585-1.302 2.657-1.35 1.103-.05 2.208-.022 3.312-.034.153-.002.199.054.199.202-.004.944-.005 1.891 0 2.836.002.168-.052.218-.215.217"></path></svg>
                <span class="icon__fallback-text">Facebook</span>
              </a>
            </li><li>
-             <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/" title="Les Secrets de Loly sur YouTube">
+             <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/" title="YouTube">
                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-youtube" viewBox="0 0 32 32"><path fill="#444" fill-rule="nonzero" d="M16 0c8.835 0 16 7.165 16 16s-7.165 16-16 16S0 24.835 0 16 7.165 0 16 0zm.248 9h-.496c-1.176.006-6.197.049-7.575.412-.84.23-1.532.922-1.763 1.779-.37 1.408-.408 4.177-.411 4.717v.185c.003.542.04 3.323.411 4.716.23.857.906 1.532 1.763 1.763 1.392.377 6.403.422 7.576.427l.237.001h.258c1.176-.006 6.197-.049 7.575-.412a2.505 2.505 0 001.763-1.762c.37-1.408.408-4.177.411-4.717v-.255c-.003-.677-.04-3.307-.411-4.663a2.506 2.506 0 00-1.763-1.763c-.596-.163-1.873-.264-3.226-.326l-.51-.022-.51-.018c-1.437-.048-2.789-.059-3.33-.061zm-2.24 4.002L19.211 16l-5.205 2.998v-5.996z"></path></svg>
                <span class="icon__fallback-text">YouTube</span>
              </a>
            </li><li>
-             <a target="_blank" rel="noopener noreferrer" href="https://www.tiktok.com/" title="Les Secrets de Loly sur TikTok">
+             <a target="_blank" rel="noopener noreferrer" href="https://www.tiktok.com/" title="TikTok">
                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-tiktok" viewBox="0 0 32 32"><path fill="#444" fill-rule="nonzero" d="M16 0C7.165 0 0 7.165 0 16s7.165 16 16 16 16-7.165 16-16S24.835 0 16 0zm8.027 12.242v2.166a7.542 7.542 0 01-4.626-1.572l.015 6.669a5.586 5.586 0 01-1.675 3.975 5.702 5.702 0 01-3.186 1.593c-.282.042-.57.063-.86.063a5.721 5.721 0 01-4.046-1.656 5.59 5.59 0 01-1.665-4.355 5.597 5.597 0 011.412-3.376 5.72 5.72 0 014.299-1.923c.29 0 .578.022.86.064V16.92a2.703 2.703 0 00-3.558 2.603 2.7 2.7 0 001.32 2.275 2.689 2.689 0 002.238.246 2.7 2.7 0 001.855-2.562l.004-4.466V6.864h2.983a4.615 4.615 0 004.62 4.575h.01v.803z"></path></svg>
                <span class="icon__fallback-text">TikTok</span>
              </a>
@@ -713,7 +712,7 @@
         .is-light .site-header__logo .logo--inverted {
           width: 270px;
         }
-      }</style><div class="h1 site-header__logo" itemscope="" itemtype="http://schema.org/Organization"><meta content="Les Secrets de Loly" itemprop="name">
+      }</style><div class="h1 site-header__logo" itemscope="" itemtype="http://schema.org/Organization"><meta content="Curlies Hall" itemprop="name">
         <a href="/" itemprop="url" class="site-header__logo-link">
           <img class="small--hide" src="{{ asset('imgs/logo_here.png')}}"  alt="Curlies Hall" itemprop="logo">
           <img class="medium-up--hide" src="{{ asset('imgs/logo_here.png')}}"  alt="Curlies Hall">
@@ -894,24 +893,24 @@
           }</style><div class=""><p class="h4 footer__title">Restons en contact</p><div>
   <div class="collapsible-content__inner">
     <div class="footer__collapsible footer_collapsible--disabled">
-<a href="/newsletter" class="btn footer__newsletter-button">S'inscrire à la newsletter</a>
+<a href="/#" class="btn footer__newsletter-button">S'inscrire à la newsletter</a>
 <ul class="no-bullets footer__social"><li>
-            <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/" title="Les Secrets de Loly sur Instagram">
+            <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/" title=" Instagram">
               <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-instagram" viewBox="0 0 32 32"><path fill="#444" fill-rule="nonzero" d="M16 0c8.835 0 16 7.165 16 16s-7.165 16-16 16S0 24.835 0 16 7.165 0 16 0zm.78 6.813h-1.56c-1.796.002-2.141.015-3.008.055-.978.045-1.646.2-2.23.427a4.5 4.5 0 00-1.627 1.06 4.5 4.5 0 00-1.06 1.627c-.227.584-.383 1.252-.427 2.23-.04.867-.053 1.212-.055 3.007v1.562c.001 1.093.007 1.648.02 2.111l.006.194c.007.223.017.438.03.702.044.978.2 1.646.426 2.23.23.613.592 1.169 1.06 1.627.459.468 1.014.83 1.627 1.06.584.227 1.252.382 2.23.427.867.04 1.212.053 3.007.055h1.562c1.795-.002 2.14-.015 3.007-.055.978-.045 1.646-.2 2.23-.427a4.698 4.698 0 002.687-2.687c.227-.584.383-1.252.427-2.23.04-.867.053-1.212.055-3.007v-1.562a75.602 75.602 0 00-.022-2.209l-.007-.191c-.007-.19-.015-.38-.026-.607-.044-.978-.2-1.646-.427-2.23a4.502 4.502 0 00-1.06-1.627 4.504 4.504 0 00-1.627-1.06c-.584-.227-1.252-.382-2.23-.427-.867-.04-1.212-.053-3.007-.055zm.209 1.656a62.53 62.53 0 012.033.024l.187.007.504.022c.895.04 1.382.19 1.705.316.4.147.76.382 1.057.687.305.297.54.658.687 1.057.126.323.276.81.317 1.706.037.82.05 1.153.052 2.723v1.978c-.003 1.57-.015 1.904-.052 2.724-.041.896-.191 1.382-.317 1.706a3.042 3.042 0 01-1.744 1.743c-.323.126-.81.276-1.706.317-.782.035-1.122.048-2.516.052h-.429l-.238.001h-1.296l-.429-.001a45.654 45.654 0 01-2.517-.052c-.895-.041-1.382-.19-1.706-.317-.399-.147-.76-.382-1.056-.687a2.848 2.848 0 01-.687-1.056c-.126-.324-.276-.81-.317-1.706-.04-.895-.052-1.21-.053-3.184v-1.058c.001-1.973.013-2.29.053-3.183.041-.896.19-1.383.317-1.706.147-.4.382-.76.687-1.057.296-.305.657-.54 1.057-.687.323-.126.81-.275 1.705-.317.82-.037 1.154-.05 2.724-.052zM16 11.282a4.718 4.718 0 100 9.436 4.718 4.718 0 000-9.436zm0 1.655a3.062 3.062 0 110 6.125 3.062 3.062 0 010-6.125zm4.904-2.944a1.103 1.103 0 100 2.205 1.103 1.103 0 000-2.205z"></path></svg>
               <span class="icon__fallback-text">Instagram</span>
             </a>
           </li><li>
-            <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/" title="Les Secrets de Loly sur Facebook">
+            <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/" title=" Facebook">
               <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-facebook" viewBox="0 0 32 32"><path fill="#444" fill-rule="evenodd" d="M16 0C7.164 0 0 7.162 0 16c0 8.833 7.164 15.998 16 15.998 8.835 0 16-7.165 16-15.998 0-8.838-7.165-16-16-16m4.237 9.758c-.533-.009-1.063-.005-1.596-.004-.706.002-1.13.367-1.173 1.066-.036.562-.009 1.125-.024 1.688-.003.2.116.185.249.185.805 0 1.614.008 2.42-.005.238-.005.315.05.287.301-.1.938-.189 1.878-.268 2.82-.02.213-.114.253-.307.25-.636-.01-1.271-.007-1.908-.004-.46.004-.414-.067-.414.4l.005 8.792c.002.309-.076.386-.383.381a85.42 85.42 0 00-3.282 0c-.308.007-.358-.097-.355-.375.01-1.474.005-2.948.005-4.426 0-1.497-.005-2.994.005-4.49.002-.255-.069-.332-.322-.322-.466.019-.933-.003-1.403.009-.188.005-.257-.05-.255-.25.01-.932.008-1.867.002-2.802-.002-.18.052-.239.233-.234.478.01.957-.015 1.433.01.277.012.333-.084.328-.342-.016-.71-.016-1.421 0-2.132.018-.87.252-1.68.77-2.387.652-.895 1.585-1.302 2.657-1.35 1.103-.05 2.208-.022 3.312-.034.153-.002.199.054.199.202-.004.944-.005 1.891 0 2.836.002.168-.052.218-.215.217"></path></svg>
               <span class="icon__fallback-text">Facebook</span>
             </a>
           </li><li>
-            <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/" title="Les Secrets de Loly sur YouTube">
+            <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/" title="  YouTube">
               <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-youtube" viewBox="0 0 32 32"><path fill="#444" fill-rule="nonzero" d="M16 0c8.835 0 16 7.165 16 16s-7.165 16-16 16S0 24.835 0 16 7.165 0 16 0zm.248 9h-.496c-1.176.006-6.197.049-7.575.412-.84.23-1.532.922-1.763 1.779-.37 1.408-.408 4.177-.411 4.717v.185c.003.542.04 3.323.411 4.716.23.857.906 1.532 1.763 1.763 1.392.377 6.403.422 7.576.427l.237.001h.258c1.176-.006 6.197-.049 7.575-.412a2.505 2.505 0 001.763-1.762c.37-1.408.408-4.177.411-4.717v-.255c-.003-.677-.04-3.307-.411-4.663a2.506 2.506 0 00-1.763-1.763c-.596-.163-1.873-.264-3.226-.326l-.51-.022-.51-.018c-1.437-.048-2.789-.059-3.33-.061zm-2.24 4.002L19.211 16l-5.205 2.998v-5.996z"></path></svg>
               <span class="icon__fallback-text">YouTube</span>
             </a>
           </li><li>
-            <a target="_blank" rel="noopener noreferrer" href="https://www.tiktok.com/" title="Les Secrets de Loly sur TikTok">
+            <a target="_blank" rel="noopener noreferrer" href="https://www.tiktok.com/" title="TikTok">
               <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-tiktok" viewBox="0 0 32 32"><path fill="#444" fill-rule="nonzero" d="M16 0C7.165 0 0 7.165 0 16s7.165 16 16 16 16-7.165 16-16S24.835 0 16 0zm8.027 12.242v2.166a7.542 7.542 0 01-4.626-1.572l.015 6.669a5.586 5.586 0 01-1.675 3.975 5.702 5.702 0 01-3.186 1.593c-.282.042-.57.063-.86.063a5.721 5.721 0 01-4.046-1.656 5.59 5.59 0 01-1.665-4.355 5.597 5.597 0 011.412-3.376 5.72 5.72 0 014.299-1.923c.29 0 .578.022.86.064V16.92a2.703 2.703 0 00-3.558 2.603 2.7 2.7 0 001.32 2.275 2.689 2.689 0 002.238.246 2.7 2.7 0 001.855-2.562l.004-4.466V6.864h2.983a4.615 4.615 0 004.62 4.575h.01v.803z"></path></svg>
               <span class="icon__fallback-text">TikTok</span>
             </a>
@@ -938,15 +937,6 @@
 </div></div>
 </div><div id="shopify-section-newsletter-popup" class="shopify-section index-section--hidden">
 </div><div id="VideoModal" class="modal modal--solid">
-<div class="modal__inner">
-  <div class="modal__centered page-width text-center">
-    <div class="modal__centered-content">
-      <div class="video-wrapper video-wrapper--modal">
-        <div id="VideoHolder"></div>
-      </div>
-    </div>
-  </div>
-</div>
 
 <button type="button" class="modal__close js-modal-close text-link">
   <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 64 64"><path d="M19 17.61l27.12 27.13m0-27.12L19 44.74"></path></svg>

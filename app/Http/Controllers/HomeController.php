@@ -81,6 +81,23 @@ if($request->has('q')){
                                      $cats=Category::all();
                                         return view('home',['posts'=>$posts,'cats'=>$cats]);
                                     }
+                                    function favoris(Request $request){
+
+                                        if($request->has('q')){
+                                            $q=$request->q;
+                                            $posts=Post::where('title','like','%'.$q.'%')->orderBy('id','desc')->paginate(6);
+                                        
+                                        }else{
+                                           /* $user_id=$request->user()->id;
+                                            $likes=Like::where('user_id','=',$user_id)->get();
+                                            foreach($likes as $like){
+                                                $posts=Post::where('post_id','=',$like->post_id)->orderBy('id','desc')->paginate(6);
+                                            }*/
+                                            $posts=Post::where('cat_id','=','8')->orderBy('id','desc')->paginate(6);
+                                        }
+                                             $cats=Category::all();
+                                                return view('home',['posts'=>$posts,'cats'=>$cats]);
+                                            }
     function detail(Request $request,$postId){
         Post::find($postId)->increment('views');
         $cats=Category::all();

@@ -22,6 +22,7 @@ Route::get('/routine', [HomeController::class,'routine']);
 Route::get('/popular', [HomeController::class,'popular']);
 Route::get('/about', [HomeController::class,'about']);
 Route::get('/contact', [HomeController::class,'contact']);
+Route::get('/favoris', [HomeController::class,'favoris']);
 Route::get('/prods', [HomeController::class,'prods']);
 Route::get('/detail/{id}', [HomeController::class,'detail']);
 Route::post('/save-comment/{id}', [HomeController::class,'save_comment']);
